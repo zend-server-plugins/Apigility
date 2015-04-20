@@ -1,5 +1,6 @@
 {
-  "name" : "Apigility",
+  "name" : "apigility",
+  "display_name" : "Apigility",
   "version" : "1.0.0",
   "type": ["zray"],
   "logo": "zray/logo.png"
